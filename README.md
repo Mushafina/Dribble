@@ -166,7 +166,7 @@ dribble.html
 
 ## OUTPUT:
 ![alt text](<Screenshot 2024-12-25 184550.png>)
-![alt text](<Screenshot 2024-12-25 183326.png>)
+![alt text](<Screenshot 2024-12-25 184606.png>)
 
 
 ## RESULT:
